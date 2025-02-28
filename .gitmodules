@@ -2,8 +2,3 @@
 	path = elitumgroup/base-addons-odoo
 	url = git@github.com:elitumgroup/base-addons-odoo.git
 	branch = 16.0
-
-[submodule "elitumgroup/base-addons-odoo"]
-	path = elitumgroup/base-addons-odoo
-	url = git@github.com:elitumgroup/base-addons-odoo.git
-	branch = 16.0
